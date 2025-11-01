@@ -16,13 +16,14 @@ redirect_from:
 * Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
 * **CGPA:  3.809** [*out of 4.00*]
 * **7<sup>st</sup>** in Merit Position
-* **Thesis title:** ["Early Depression Detection from Social Media Using Deep Learning Techniques"](https://Farzad-1996.github.io/files/Farzad_B.Sc._Thesis.pdf) 
-* **Supervisor:** [Faisal Muhammad Shah](https://scholar.google.com/citations?user=su683LQAAAAJ&hl=en), Associate Professor, Department of CSE, AUST
+* **Thesis title:** ["Using Automotive ECU and Computer Vision Based Image
+Processing \\for Vehicle Lane Keeping"](https://Farzad-1996.github.io/files/Farzad_B.Sc._Thesis.pdf) 
+* **Supervisor:** [Prof. Dr. Kazi A Kalpoma](https://scholar.google.com/citations?user=8JNGWr0AAAAJ&hl=en), Professor, Department of CSE, AUST
 
 <br /> 
 # Participation and Awards
 
 * **Dean's List of Honors** (Bachelor of Science)
-* Participated in International Conference on Electronics, Communications, and Information Technology 2021 (ICECIT 2021), Dhaka, Bangladesh
-* Participated in 2020 IEEE Region 10 Symposium (TENSYMP 2020), Dhaka, Bangladesh
+* Participated in 26th International Conference on Computer and Information Technology (ICCIT 2023), Cox’s Bazar, Bangladesh
+  
 
