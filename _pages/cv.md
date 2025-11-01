@@ -11,26 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<b>B.Sc., Computer Science and Engineering</b><br />
+Ahsanullah University of Science and Technology<br />
+Dhaka, Bangladesh<br />
+<i style='color:#000099;'>**Fall 2018 - Spring 2022**</i>
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<b>Lecturer</b><br />
+Department of Computer Science and Engineering <br/>
+Ahsanullah University of Science and Technology<br />
+<i style='color:#000099;'>**January 2021 - August 2023**</i><br/>
   
 Skills
 ======
