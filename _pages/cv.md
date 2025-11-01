@@ -19,10 +19,26 @@ Dhaka, Bangladesh<br />
 
 Work experience
 ======
-<b>Lecturer</b><br />
-Department of Computer Science and Engineering <br/>
-Ahsanullah University of Science and Technology<br />
-<i style='color:#000099;'>**January 2021 - August 2023**</i><br/>
+<b>Software Engineer</b><br />
+Digital Financial Services<br/>
+Meghna Bank PLC.<br />
+<i style='color:#000099;'>**February 2025 - Present**</i><br/>
+
+<b>QA Associate (Solution Design & QA)</b><br />
+Software Quality Assurance<br/>
+Nagad LTD<br />
+<i style='color:#000099;'>**October 2023 - August 2024**</i><br/>
+
+<b>Technology Intern (QA)</b><br />
+Software Quality Assurance<br/>
+Nagad LTD<br />
+<i style='color:#000099;'>**July 2023 - September 2023**</i><br/>
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
@@ -39,18 +55,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<b>Private Tutor</b><br />
+Mathematics, Physics, IT for Grade 11 & 12<br />
+<i style='color:#000099;'>**2019 - 2023**</i><br/>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
