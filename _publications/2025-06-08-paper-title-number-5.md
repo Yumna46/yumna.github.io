@@ -2,7 +2,7 @@
 title: "Efficient Lane Detection and Keeping for Autonomous Vehicles in Real-World Scenarios"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-02-27-paper-title-number-5
 excerpt: 'A lane keeping system where we first detect lane lines in different lighting situations, followed by steering angle correction of the deviated vehicle with a warning feature.'
 date: 2024-02-27
 venue: '26th International Conference on Computer and Information Technology'
