@@ -2,7 +2,7 @@
 title: "A Lane Detection Framework for Automated Vehicle Using Computer Vision"
 collection: publications
 category: conferences
-permalink: /publication/2024-01-23-paper-title-number-4
+permalink: /publication/2024-01-27-paper-title-number-4
 excerpt: 'This paper is on a lane detection framework for an autonomous vehicle where we introduce an image processing pipeline to detect lane lines in different lighting situations of the road'
 date: 2024-01-23
 venue: 'International Conference on Power Engineering and Intelligent Systems (PEIS)'
