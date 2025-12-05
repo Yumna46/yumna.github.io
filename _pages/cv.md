@@ -40,7 +40,7 @@ Teaching
 Mathematics, Physics, IT for Grade 11 & 12<br />
 <i style='color:#000099;'>**2019 - 2023**</i><br/>
 
-[Download Full CV](https://farzad-1996.github.io/files/FarzadAhmedCV.pdf) [<ins>*Last Updated on December 5, 2025*</ins>]
+[Download Full CV](https://github.com/Yumna46/yumna.github.io/blob/master/files/YumnaIslamCV.pdf) [<ins>*Last Updated on December 5, 2025*</ins>]
 
 ## Contact Me
 -------------
