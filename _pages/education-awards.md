@@ -17,7 +17,7 @@ redirect_from:
 * **CGPA:  3.809** [*out of 4.00*]
 * **7<sup>st</sup>** in Merit Position
 * **Thesis title:** ["Using Automotive ECU and Computer Vision Based Image
-Processing \\for Vehicle Lane Keeping"](https://Farzad-1996.github.io/files/Farzad_B.Sc._Thesis.pdf) 
+Processing \\for Vehicle Lane Keeping"]
 * **Supervisor:** [Prof. Dr. Kazi A Kalpoma](https://scholar.google.com/citations?user=8JNGWr0AAAAJ&hl=en), Professor, Department of CSE, AUST
 
 <br /> 
