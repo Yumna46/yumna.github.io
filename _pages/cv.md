@@ -40,16 +40,16 @@ Teaching
 Mathematics, Physics, IT for Grade 11 & 12<br />
 <i style='color:#000099;'>**2019 - 2023**</i><br/>
 
-[Download Full CV](https://farzad-1996.github.io/files/FarzadAhmedCV.pdf) [<ins>*Last Updated on August 9, 2022*</ins>]
+[Download Full CV](https://farzad-1996.github.io/files/FarzadAhmedCV.pdf) [<ins>*Last Updated on December 5, 2025*</ins>]
 
 ## Contact Me
 -------------
 
 **Email:** yumna [dot] islam001 [at] gmail [dot] com <br /> 
  <br /> 
-**Website:** [https://farzad-1996.github.io](https://farzad-1996.github.io/) <br />
+**Website:** [https://yumna46.github.io/yumna.github.io/](https://yumna46.github.io/yumna.github.io/) <br />
 
-You can also find me on [Google Scholar](https://scholar.google.com/citations?user=tFYmHMsAAAAJ&hl=en), [Github](https://github.com/farzad-1996).
+You can also find me on [Github](https://github.com/Yumna46).
 
 **Address:**
 <address>
